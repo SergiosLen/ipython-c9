@@ -15,4 +15,4 @@ _Open with your browser the page_
 
 _But replace_
 
-*https://workspace-name.c9-user_name.c9.io/
+* https://workspace-name.c9-user_name.c9.io/
